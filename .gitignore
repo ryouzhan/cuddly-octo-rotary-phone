@@ -1,0 +1,28 @@
+# 临时文件
+data/
+logs/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# 虚拟环境
+venv/
+env/
+.venv/
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# 测试输出
+*.xlsx
+*.xls
+*.csv
+!原版备份.py
